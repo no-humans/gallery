@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Cinzel&family=Nabla&family=Passions+Conflict&display=swap');
+div{
+    height: 660px;
+    width: 23%;
+    background-color: black;
+    border: 3px solid aqua;
+    float: left;
+    color: aqua;
+    padding: 10px;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+    font-family: 'Bungee Spice', cursive;
+}
+img{
+    width: 100%;
+    height: 250px;
+}
+p{
+    font-family:'Cinzel', serif;
+    color: aqua;
+}
